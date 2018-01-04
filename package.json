@@ -1,0 +1,28 @@
+{
+  "name": "workshop-api-testing",
+  "version": "1.0.0",
+  "description": "This is a workshop about Api Testing in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jsparraq@github.com/jsparraq/workshop-api-testing-js.git"
+  },
+  "keywords": [
+    "api-testing",
+    "dojo",
+    "practice"
+  ],
+  "author": "[]\u001b[DJuan Sebastian Parra Quintero] - []\u001b[Djparraq@psl.com.co] ([jsparraq])",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsparraq/workshop-api-testing-js/issues"
+  },
+  "homepage": "https://github.com/jsparraq/workshop-api-testing-js#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
