@@ -23,6 +23,12 @@
   "homepage": "https://github.com/jsparraq/workshop-api-testing-js#readme",
   "devDependencies": {
     "chai": "^4.1.2",
+    "http-status-codes": "^1.3.0",
+    "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "superagent": "^3.8.2",
+    "superagent-promise": "^1.1.0",
     "mocha": "^4.1.0"
   }
 }
